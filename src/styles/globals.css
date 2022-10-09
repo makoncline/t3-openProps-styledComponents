@@ -1,0 +1,6 @@
+@import "open-props/style";
+@import "open-props/colors-hsl";
+@import "open-props/normalize";
+@import "open-props/buttons";
+@import "open-props/sizes";
+@import "./variables.css";
